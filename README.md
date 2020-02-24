@@ -92,3 +92,6 @@ private void QLearning() {
         }
     }
 ```
+
+### Contribute
+If you want to contribute in this repository feel free to fork the repo and hopefully we can learn from each other. your help is very welcome.
